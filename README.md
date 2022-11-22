@@ -99,7 +99,7 @@ void loop ()
 
 
 
-![GitHub Logo](.//2.png)
+![output](.//p1.png)
 
 
 
